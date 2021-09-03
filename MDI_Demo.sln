@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDI_Demo", "MDI_Demo\MDI_Demo.csproj", "{4EE50E15-2397-456C-B36A-3BB6E5780C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragDropDemo", "DragDropDemo\DragDropDemo.csproj", "{BDCE7582-09AE-4727-9D8E-480CD29A4501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE50E15-2397-456C-B36A-3BB6E5780C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE50E15-2397-456C-B36A-3BB6E5780C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE50E15-2397-456C-B36A-3BB6E5780C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE50E15-2397-456C-B36A-3BB6E5780C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCE7582-09AE-4727-9D8E-480CD29A4501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCE7582-09AE-4727-9D8E-480CD29A4501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCE7582-09AE-4727-9D8E-480CD29A4501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCE7582-09AE-4727-9D8E-480CD29A4501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0BF393-A909-484A-8D51-04916CA0308A}
+	EndGlobalSection
+EndGlobal
